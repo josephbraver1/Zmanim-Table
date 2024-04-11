@@ -1,2 +1,2 @@
-# Zmanim-Table
+### Zmanim-Table
 
